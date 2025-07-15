@@ -2,11 +2,3 @@ test
 ahfa
 
 
-ai-dt-myai-web-rd-testing
-
-
-npx playwright test npx playwright test dgpolicies.spec.js npx playwright test login.spec.js -g “test title unique snippet”
-
-npx playwright codegen https://www.myAI.com
-
-npm run test-and-report npx playwright test payrollSuite.spec.js -g 
